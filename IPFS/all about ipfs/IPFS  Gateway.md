@@ -2,6 +2,9 @@
 
 - An IPFS gateway is a standardized HTTP API for getting content-addressed data from IPFS nodes and CID providers.
 
+- ![image](https://github.com/user-attachments/assets/530ad900-ab90-4811-809a-aad21d143bd7)
+
+
  ## Gateway providers
 Regardless of who deploys a gateway and where, any IPFS gateway resolves access to any requested IPFS content identifier.
 
