@@ -2,6 +2,10 @@
 
 IPFS stands for InterPlanetary File System. It’s a decentralized protocol and peer-to-peer network for storing and sharing data in a distributed file system.
 
+
+![Image](https://github.com/user-attachments/assets/d4868243-c6dd-4d2f-a628-7e074bdc7f4e)
+
+
 ## Core Concepts
 ### a. Content Addressing
 Instead of URLs (which point to a location), IPFS uses CIDs (Content Identifiers).
