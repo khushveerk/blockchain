@@ -56,6 +56,8 @@ If the GW providers want to limit the access only to the requests with authentic
 
 Reverse proxy is the most popular way for providers handling authentication. This tutorial configuring private gateway includes a description of controling access with Nginx. Reverse proxy can also keep the original IPFS API calls which makes GW adaptable to all IPFS SDK/toolkits.
 
+![image](https://github.com/user-attachments/assets/488b35ee-a736-4a6f-b3de-0ab53b152e6a)
+
 
 git repo link for diving deep into w3auth GW :-
 ```bash
