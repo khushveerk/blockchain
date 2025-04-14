@@ -38,3 +38,6 @@ When you retrieve data, you fetch it from whichever peer has it — not from a c
 In a traditional HTTP-based system, content is located and accessed through URLs, which point to the server's physical location where the content is stored. This location-based system has inherent limitations in terms of efficiency, security, and data permanence.
 
 Content addressing, on the other hand, changes the focus from where data is stored to what the data actually is.
+
+
+
