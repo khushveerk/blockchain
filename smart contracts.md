@@ -58,7 +58,7 @@ steps :-
 7. then copy the transaction address and go and paste it on etherscan and done with it .
 
 ## code  
-bash``` 
+``` 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -73,11 +73,9 @@ contract SimpleStorage {
         return storedData;
     }
 }
-```bash 
+``` 
 
 
 ![Image](https://github.com/user-attachments/assets/e7afc484-4217-4d7d-9534-6288594abb9a)
 
-![Image](https://github.com/user-attachments/assets/c1a5b4aa-2650-49de-ba76-dd7cf68774ad)
 
-![Image](https://github.com/user-attachments/assets/b66d931b-5b84-421b-942a-9084819e9b6c)
