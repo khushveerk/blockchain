@@ -52,8 +52,11 @@ steps :-
 1.Open remix.ethereum.org
 2.Create new file (SimpleStorage.sol)
 3.Paste the code
-4. under workspaces option , select metamask and connect to your metamask account. 
-5.Compile using Solidity compiler plugin
+4. Compile using Solidity compiler plugin
+5. under workspaces option , select metamask and connect to your metamask account. 
+
+![Screenshot 2025-05-18 114112](https://github.com/user-attachments/assets/356ca2a8-a0ea-44e6-ab7c-95af1422c5d3)
+
 6.Deploy using Deploy & Run Transactions plugin
 7. then copy the transaction address and go and paste it on etherscan and done with it .
 
@@ -80,3 +83,4 @@ contract SimpleStorage {
 
 ![Screenshot 2025-05-18 113656](https://github.com/user-attachments/assets/845c852b-ffd0-41ae-b8d9-dd8ca72a3a10)
 
+![Screenshot 2025-05-18 113737](https://github.com/user-attachments/assets/4660a829-53f8-4c48-95da-c323b4e69d30)
