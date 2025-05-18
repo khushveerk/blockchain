@@ -73,7 +73,7 @@ contract SimpleStorage {
         return storedData;
     }
 }
-```
+```bash 
 
 
 ![Image](https://github.com/user-attachments/assets/e7afc484-4217-4d7d-9534-6288594abb9a)
