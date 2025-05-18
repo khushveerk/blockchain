@@ -53,7 +53,8 @@ steps :-
 2.Create new file (SimpleStorage.sol)
 3.Paste the code
 4. Compile using Solidity compiler plugin
-5. under workspaces option , select metamask and connect to your metamask account. 
+5. go to debug then under environment option , select metamask and connect to your metamask account. 
+![image](https://github.com/user-attachments/assets/7e15b9c4-afd0-4341-bb35-71d3e11839e7)
 
 ![Screenshot 2025-05-18 114112](https://github.com/user-attachments/assets/356ca2a8-a0ea-44e6-ab7c-95af1422c5d3)
 
