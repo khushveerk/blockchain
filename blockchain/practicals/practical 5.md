@@ -21,3 +21,9 @@ contract SimpleAuction {
 }
 ```
 
+![image](https://github.com/user-attachments/assets/bb48a800-72fe-4cdd-a474-f1de238e6f04)
+
+![image](https://github.com/user-attachments/assets/18eb0b0f-91a3-466d-86c8-eeffb33f5382)
+
+
+
