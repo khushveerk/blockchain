@@ -29,3 +29,10 @@ contract StudentRecords {
     }
 }
 ```
+![Screenshot 2025-05-19 134520](https://github.com/user-attachments/assets/ace41b36-6ffd-4ff8-8d9b-3da5ebbe7da9)
+
+![image](https://github.com/user-attachments/assets/9a057d67-d522-4dcf-9f38-c618033704eb)
+
+
+
+
