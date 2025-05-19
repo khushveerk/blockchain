@@ -27,3 +27,8 @@ contract OwnerRestricted {
 }
 ```
 
+![Screenshot 2025-05-19 135013](https://github.com/user-attachments/assets/5d3437eb-5d7b-4dd8-9614-587d29866bf9)
+
+![Screenshot 2025-05-19 135042](https://github.com/user-attachments/assets/b819da61-0951-4ad7-ac52-cb4e8f54f7e0)
+
+
