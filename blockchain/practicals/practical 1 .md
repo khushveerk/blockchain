@@ -48,4 +48,7 @@ contract VotingSystem {
 }
 ```
 
+![Screenshot 2025-05-19 134133](https://github.com/user-attachments/assets/02131372-a2e6-4334-89c6-6e6396689b26)
+
+![Screenshot 2025-05-19 134210](https://github.com/user-attachments/assets/7c8e23a0-f20c-420a-8e07-c130e5b50024)
 
