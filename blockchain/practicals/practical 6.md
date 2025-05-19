@@ -24,3 +24,8 @@ contract SplitEther {
 }
 ```
 
+![Screenshot 2025-05-19 140939](https://github.com/user-attachments/assets/2d917e13-e4b2-43aa-80ca-bacc91b3cc09)
+
+![image](https://github.com/user-attachments/assets/0a47efce-fe91-407a-9802-e4322051241d)
+
+
